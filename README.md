@@ -2,5 +2,5 @@
 
 * THIRD PARTY ARCH INSTALL SCRIPTS
 
-* clone, cd, and run scripts
+* clone, cd, chmod, and run scripts
 * easy - works OOB!!!
